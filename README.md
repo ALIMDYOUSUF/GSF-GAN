@@ -59,4 +59,7 @@ python /GSF_GAN/code/main.py --cfg cfg/eval_coco.yml --gpu 0
 
 
 ### Acknowlegement
-The pre-process data and code borrows heavily from - [Recurrent Affine Transformation for Text-to-image Synthesis](https://arxiv.org/abs/2204.10482) [[code]](https://github.com/senmaoy/RAT-GAN) and [[DM-GAN](https://github.com/MinfengZhu/DM-GAN), we apprecite the authors for sharing their codes and data.](https://github.com/xueqinxiang/DMF-GAN)
+The pre-process data and code borrows heavily from - [Recurrent Affine Transformation for Text-to-image Synthesis](https://arxiv.org/abs/2204.10482) [[code]](https://github.com/senmaoy/RAT-GAN) 
+- [[DM-GAN]
+- (https://github.com/MinfengZhu/DM-GAN),
+  we apprecite the authors for sharing their codes and data.](https://github.com/xueqinxiang/DMF-GAN)
