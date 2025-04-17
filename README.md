@@ -1,7 +1,9 @@
 ### Example results
 
 ![GSF-GAN](https://github.com/user-attachments/assets/fdc71040-8585-4bdb-b240-4f64d984ab97)
+
 ![Feature Matching Loss](https://github.com/user-attachments/assets/1a709da4-ea71-49a1-b5f1-48b52a41bb90)
+
 ![IMAGE-TEXT  MATCHING LOSS](https://github.com/user-attachments/assets/ce8aec5f-90f6-4bcc-a1c5-55abfcf57d4e)
 
 
@@ -59,7 +61,8 @@ python /GSF_GAN/code/main.py --cfg cfg/eval_coco.yml --gpu 0
 
 
 ### Acknowlegement
-The pre-process data and code borrows heavily from - [Recurrent Affine Transformation for Text-to-image Synthesis](https://arxiv.org/abs/2204.10482) [[code]](https://github.com/senmaoy/RAT-GAN) 
-- [[DM-GAN]
+The pre-process data and code borrows heavily from
+- [Recurrent Affine Transformation for Text-to-image Synthesis](https://arxiv.org/abs/2204.10482) [[code]](https://github.com/senmaoy/RAT-GAN) 
 - (https://github.com/MinfengZhu/DM-GAN),
-  we apprecite the authors for sharing their codes and data.](https://github.com/xueqinxiang/DMF-GAN)
+-(https://github.com/xueqinxiang/DMF-GAN),
+we apprecite the authors for sharing their codes and data.
