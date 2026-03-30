@@ -1,15 +1,14 @@
 ### Example results
-
-![GSF-GAN](https://github.com/user-attachments/assets/1a3a62a8-8f04-4e3f-b7c2-641026ed33df)
-
-![Feature Matching Loss](https://github.com/user-attachments/assets/1a709da4-ea71-49a1-b5f1-48b52a41bb90)
-
-![IMAGE-TEXT  MATCHING LOSS](https://github.com/user-attachments/assets/ce8aec5f-90f6-4bcc-a1c5-55abfcf57d4e)
-
-![ChatGPT Image May 30, 2025, 10_57_37 PM](https://github.com/user-attachments/assets/25179902-7b6d-4a1d-a0ba-bce4d2789e00)
+<img width="3021" height="1530" alt="Fig  1  Traditional fixed-length vs  our parser-guided attribute learning (PAL) architectures  Zoom in for better clarity" src="https://github.com/user-attachments/assets/bfc4c501-8585-429c-9d39-28eaf4fc31e1" />
 
 
-##  Global Semantic Fusion Generative Adversarial Network (GSF-GAN). 
+<img width="3305" height="1905" alt="Fig  2  Overall architecture of GSF-GAN  Zoom in for better clarity" src="https://github.com/user-attachments/assets/be5affa9-4e16-4852-a0f1-8155c3c8806d" />
+
+
+<img width="2341" height="1590" alt="Fig  7   Examples of images synthesized by Patri  11 , LMD  13 , GALIP  15 , CLIP-GAN  16 , and our proposed GSF-GAN, which is c" src="https://github.com/user-attachments/assets/5b99796e-3eaa-4270-880e-d3af1c98354b" />
+
+##  Refinement-Guided Text-to-Image Synthesis via Global Semantic Fusion GAN. 
+
 
 we propose a refinement-based framework designed as the "Global Semantic Fusion Generative Adversarial Network (GSF-GAN)". The fidelity and consistency of generated images are better matched through three key components.  
 
