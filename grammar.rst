@@ -163,7 +163,7 @@ the ``make_syntax_error`` method.
 
 This construct can help provide better error messages.
 
-Keywords
+Keywords: 
 ~~~~~~~~
 
 Keywords are identified in the grammar as quoted names. Single quotes
