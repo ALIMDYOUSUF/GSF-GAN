@@ -66,4 +66,5 @@ The pre-process data and code borrows heavily from
 - [Recurrent Affine Transformation for Text-to-image Synthesis](https://arxiv.org/abs/2204.10482) [[code]](https://github.com/senmaoy/RAT-GAN) 
 - (https://github.com/MinfengZhu/DM-GAN),
 -(https://github.com/xueqinxiang/DMF-GAN),
+-https://github.com/tobran/DF-GAN
 we apprecite the authors for sharing their codes and data.
